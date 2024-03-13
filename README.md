@@ -1,2 +1,1 @@
-# javascript-sandbox
-Aprendendo a codar com javascript
+# Aprendendo a codar com javascript
