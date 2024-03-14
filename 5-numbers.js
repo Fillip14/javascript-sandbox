@@ -13,7 +13,11 @@ num1 += num2;
 console.log(num1); //Resultado impreciso
 
 numCorrigido = parseFloat(num1.toFixed(2)); //Number(num1.toFixed(2))
-console.log(numCorrigido); //Resultado impreciso
+console.log(numCorrigido);
 
 num1 = (num1 * 100 + num2 * 100) / 100; //Corrigin o erro de outra forma
 console.log(num1);
+
+console.log(num3 ** (1 / 2)); //Raiz quadrada
+
+console.log(100 / 0); //Ele gera numero Infinity
